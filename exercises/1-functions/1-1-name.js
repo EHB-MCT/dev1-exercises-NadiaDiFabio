@@ -10,6 +10,7 @@ function writeName() {
 
     context.lineWidth = 7;
 
+    //N
     context.strokeStyle = "#E0BBE4";
     context.beginPath();
     context.moveTo(100, 500);
@@ -26,6 +27,7 @@ function writeName() {
     context.lineTo(200, 200);
     context.stroke();
 
+    //A
     context.strokeStyle = "#957DAD"
     context.beginPath();
     context.moveTo(300, 500);
@@ -42,6 +44,7 @@ function writeName() {
     context.lineTo(466, 400);
     context.stroke();
 
+    //D
     context.strokeStyle = "#D291BC"
     context.beginPath();
     context.moveTo(600, 500);
@@ -73,6 +76,7 @@ function writeName() {
     context.lineTo(600, 500);
     context.stroke();
 
+    //I
     context.strokeStyle = "#FEC8D8"
     context.beginPath();
     context.moveTo(775, 500);
@@ -89,6 +93,7 @@ function writeName() {
     context.lineTo(975, 200);
     context.stroke();
 
+    //A
     context.strokeStyle = "#c6e2e9"
     context.beginPath();
     context.moveTo(1075, 500);
